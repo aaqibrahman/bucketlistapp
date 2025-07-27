@@ -3,11 +3,6 @@
 
 A full-stack bucket list tracker built using **React (Vite)** and **AWS Amplify**. Users can sign up, add, update, delete bucket list items, and optionally upload images. Deployed via AWS Amplify with CI/CD integration from GitHub.
 
-## 🚀 Live Demo
-
-🔗 [View Deployed App](https://your-amplify-app-url.amplifyapp.com)  
-*(Replace with your actual Amplify deployment URL)*
-
 ---
 
 ## 🛠 Tech Stack
